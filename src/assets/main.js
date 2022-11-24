@@ -40,5 +40,5 @@ async function fetchData(urlApi) {
     catch (error) {
         console.log(error);
     }
-})
+})();
 

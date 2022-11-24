@@ -4,6 +4,7 @@
   "description": "Práctica para crear landing page en el curso de asincronismo con JS de Platzi",
   "main": "index.js",
   "scripts": {
+    "hg-pages": "gh-pages -d src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
